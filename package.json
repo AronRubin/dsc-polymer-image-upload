@@ -1,5 +1,16 @@
 {
   "name": "dsc-polymer-image-upload",
+  "description": "Crop and upload images",
+  "version": "0.0.2",
+  "authors": [
+    "Andre Luiz Haag <andreluizhaag@gmail.com>"
+  ],
+  "main": "dsc-polymer-image-upload.html",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AronRubin/dsc-polymer-image-upload"
+  },
+  "private": false,
   "license": "MIT",
   "devDependencies": {
     "bower": "latest",
